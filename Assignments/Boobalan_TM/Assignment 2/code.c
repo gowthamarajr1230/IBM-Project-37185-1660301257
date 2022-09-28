@@ -65,5 +65,3 @@ void loop() {
   
  
 }
-Footer
-© 2022 GitHub, Inc.
